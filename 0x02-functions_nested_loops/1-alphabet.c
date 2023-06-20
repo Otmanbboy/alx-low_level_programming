@@ -2,7 +2,8 @@
 
 /**
  * this function to return the alphabet
- * is alphqbet
+ * is function print_alphabet
+ * print_alphabet
  * Return: Always 0.
  */
 void print_alphabet(void)
