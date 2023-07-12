@@ -2,11 +2,11 @@
 #include "main.h"
 
 /**
- * main - prints all arguments it receives
- * @argc: number of arguments
- * @argv: array of arguments
+ * main - affiche  all arguments it receives
+ * @argc: is the number of arguments
+ * @argv: is the array of arguments
  *
- * Return: Always 0 (Success)
+ * Return: 0
  */
 int main(int argc, char *argv[])
 {
